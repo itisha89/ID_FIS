@@ -89,3 +89,7 @@ This project provided a comprehensive demonstration of my abilities in Articulat
 - **UX/UI Design**: Creation of engaging, functional designs with interactive elements.
 - **Instructional Design**: Creating an engaging, user-centered learning experience.
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
